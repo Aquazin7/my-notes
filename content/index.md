@@ -11,7 +11,7 @@ Aquazin的博客请前往：[博客](https://aquazin.top)
 - [[现代C++/前言|现代C++]]
 
 
-推送使用`npx quartz sync --no-pull`
+推送使用npx quartz sync --no-pull
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
