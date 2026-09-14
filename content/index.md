@@ -9,7 +9,7 @@ Aquazin的博客请前往：[博客](https://aquazin.top)
 
 - [[OpenCV笔记/OpenCV入门|OpenCV笔记]]
 - [[现代C++/前言|现代C++]]
-
+- [[自动控制原理/前言|自动控制原理]]
 
 推送使用npx quartz sync --no-pull
 
